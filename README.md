@@ -1,25 +1,27 @@
-# Trabalho de Avaliação (P2)
+# Site Tokusen
 
-Página desenvolvida para disciplina **Desenvolvimento Web 1 (P2)**, da **FATEC Praia Grande**, para o curso **DSM – 1° Ciclo (2025)**
+Aplicação web desenvolvida como projeto acadêmico no curso de 
+Desenvolvimento de Software Multiplataforma (DSM) da FATEC Praia Grande.
 
----
+## Tecnologias
 
-## 🔖 Informações
+- HTML5
+- CSS3
+- JavaScript
 
-* **Nome:** Daniela Feitoza Alves
-* **Disciplina:** Desenvolvimento Web 1
-* **Professora:** Eulaliane
-* **Turma:** DSM – 1° Ciclo / 2025
+## Funcionalidades
 
----
+- Interface responsiva com design moderno
+- Sistema de autenticação (login)
+- Fluxo de pedidos integrado
 
-## 🔑 Acesso
+## Deploy
 
-```
-Login: daniela
-Senha: 1291392522002
-```
+Acesse o projeto em produção:  
+[danis1.github.io/Site-Tokusen](https://danis1.github.io/Site-Tokusen)
 
----
+## Autora
 
-### ✨ Obrigada!
+**Daniela Feitoza Alves**  
+Desenvolvimento de Software Multiplataforma — FATEC Praia Grande  
+[LinkedIn](www.linkedin.com/in/danielafeitoza)
